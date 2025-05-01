@@ -203,7 +203,7 @@ int main() {
     cout << "Sorted array: ";
     for (int i = 0; i < n; i++) cout << arr[i] << " ";
     return 0;
-
+}
 
 //7. Breadth-First Search (BFS)
 
